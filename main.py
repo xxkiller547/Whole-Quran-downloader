@@ -75,3 +75,4 @@ def DownloadWholeQuran():
 #==================================================================================================
 if __name__ == "__main__":
     DownloadWholeQuran()
+    merge_audio_files()
